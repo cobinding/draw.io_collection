@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T03:44:21.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ivy5rojOyM2D14PzPxoQ" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T03:46:19.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FX3G6kiHkZrbU2BNJf8c" version="24.0.8" type="github">
   <diagram name="페이지-1" id="WPOqP1bTp_Iol4xRQsoV">
-    <mxGraphModel dx="1521" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2106" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,12 @@
         </mxCell>
         <mxCell id="W7rrW-tQhRegGtTrBUPO-8" value="quantity" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="706" y="889" width="74" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="W7rrW-tQhRegGtTrBUPO-10" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="743.15" y="405" width="59.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W7rrW-tQhRegGtTrBUPO-11" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747.3" y="608" width="59.85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
