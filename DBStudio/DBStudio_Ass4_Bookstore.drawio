@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T15:40:44.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uFygDvkjObuEQh71iX21" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T15:41:45.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iEAJfRnZj_jwpaS4V4AO" version="24.2.2" type="github">
   <diagram name="페이지-1" id="EJJK_OTICPYYUOJ0lnww">
     <mxGraphModel dx="1970" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -106,11 +106,11 @@
         <mxCell id="cpaIPxcCsYdrv0hs0OcH-23" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="781.5" y="208" width="27" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cpaIPxcCsYdrv0hs0OcH-24" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="775" y="450" width="27" height="26" as="geometry" />
+        <mxCell id="cpaIPxcCsYdrv0hs0OcH-24" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="450" width="28" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cpaIPxcCsYdrv0hs0OcH-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="876.5" y="451" width="27" height="26" as="geometry" />
+        <mxCell id="cpaIPxcCsYdrv0hs0OcH-25" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="876.5" y="451" width="28" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cpaIPxcCsYdrv0hs0OcH-26" value="- 가격정보는 BOOK Entity에 담겨있기에, payment 생략(중복 제거)&lt;div&gt;- 카탈로그는 검색을 위한 도구이므로 DB에 저장하지 않는다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 책 정보와 주문 정보, 배달 정보만 추가한다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="254" y="762" width="419" height="30" as="geometry" />
