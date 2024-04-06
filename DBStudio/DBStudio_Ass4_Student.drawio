@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T06:01:18.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VvXWBUvnvz2Ajl5eJef5" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T06:11:49.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EVvwszKlOHZTSuxyBKi8" version="24.2.2" type="github">
   <diagram name="페이지-1" id="7VR-YZdjgw9keZSOpcH8">
-    <mxGraphModel dx="1865" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="1954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,9 +316,6 @@
         </mxCell>
         <mxCell id="WuKkELYWbVebZwCjvSoB-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1366" y="740" width="25" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="WuKkELYWbVebZwCjvSoB-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="886" y="562" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WuKkELYWbVebZwCjvSoB-30" value="&lt;ul style=&quot;list-style-type: &amp;quot;—&amp;nbsp;&amp;nbsp;&amp;quot;; font-size: 17px;&quot; class=&quot;ul2&quot;&gt;&lt;li style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;li1&quot;&gt;﻿﻿학생과 교수에 관한 관계를 파악하는 것이 핵심이기에 학부 정보는 추가하지 않는다. 추후 DB 설계에 필요로 하다면 추가하도록한다.&lt;/li&gt;&lt;li style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;li1&quot;&gt;﻿﻿대학원생은 석사, 박사로 구분하여 중복 제거를 위해 SubEntity로 설계한다.&lt;/li&gt;&lt;li style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;li1&quot;&gt;﻿﻿학생에 대한 수강 강의 정보는 두 가지 관계를 가지므로 구분하여 설계한다&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="31" y="1134" width="965" height="30" as="geometry" />
