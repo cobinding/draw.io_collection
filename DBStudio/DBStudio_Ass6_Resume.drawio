@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T13:40:14.068Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DrwWTzLAx6SA-1AxAwY3" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:42:06.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-uwlkqxVdJGF6SLXWQDv" version="24.3.0" type="github">
   <diagram name="페이지-1" id="L_vcG8KL9gikt4Iytg5y">
-    <mxGraphModel dx="1659" dy="1010" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="1571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,6 +508,9 @@
         </mxCell>
         <mxCell id="MvHDDjJnXvS4SuCY-XFk-170" value="활용도" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1173" y="960" width="75" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="MvHDDjJnXvS4SuCY-XFk-172" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;B105-토론과제3&lt;/h1&gt;&lt;p&gt;장승우&lt;/p&gt;&lt;p&gt;추세빈 2020126109&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1707" y="21" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
