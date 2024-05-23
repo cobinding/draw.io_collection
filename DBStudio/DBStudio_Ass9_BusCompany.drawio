@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T10:20:06.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0riDbvBtOlNzsbxAyTSs" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T10:21:36.236Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hx-qZewwaG0_MjzjPZrA" version="24.4.6" type="github">
   <diagram name="페이지-1" id="01PjtBnGj7benBQpnryJ">
-    <mxGraphModel dx="1169" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1670" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-57" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="574" y="312" width="28" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-58" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;버스 예약 관리&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="493.5" y="954" width="162" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
