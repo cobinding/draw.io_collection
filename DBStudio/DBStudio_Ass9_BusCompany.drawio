@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T15:55:45.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Jz7DMZynCbKo3P99vq-E" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T10:30:07.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WDjTlnQVuUlbCI8SAUq7" version="24.4.6" type="github">
   <diagram name="페이지-1" id="01PjtBnGj7benBQpnryJ">
-    <mxGraphModel dx="835" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1470" dy="1325" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-17" value="도시" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="174" width="100" height="40" as="geometry" />
+          <mxGeometry x="602" y="174" width="67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.976;entryY=0.492;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;entryPerimeter=0;" parent="1" source="Ytf4gtK0Q_wr9BrQV-4_-20" target="Ytf4gtK0Q_wr9BrQV-4_-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-34" value="운전사" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="880" y="607" width="100" height="40" as="geometry" />
+          <mxGeometry x="992" y="615" width="72" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ytf4gtK0Q_wr9BrQV-4_-35" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-35" value="조수" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1009" y="607" width="100" height="40" as="geometry" />
+          <mxGeometry x="1075" y="615" width="70" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Ytf4gtK0Q_wr9BrQV-4_-38" target="Ytf4gtK0Q_wr9BrQV-4_-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -99,11 +99,41 @@
         <mxCell id="Ytf4gtK0Q_wr9BrQV-4_-58" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;버스 예약 관리&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="493.5" y="954" width="162" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="POepSHICHF05fKiZu9vz-12" value="요구사항) 한 노선에 여러 버스가 할당 된다.&amp;nbsp;&lt;div&gt;이때 각 버스는 운전사, 조수에 대한 정보가 필요하다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="POepSHICHF05fKiZu9vz-12" value="요구사항) 한 노선에 여러 버스가 할당 된다.&amp;nbsp;&lt;div&gt;이때 각 버스는 운전사, 조수에 대한 정보가 필요하다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="864" y="668" width="266" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="POepSHICHF05fKiZu9vz-13" value="의도) 한 노선에 여러 버스가 할당 된다.&amp;nbsp;&lt;div&gt;버스는 한 노선에서 운행된다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="POepSHICHF05fKiZu9vz-13" value="의도) 한 노선에 여러 버스가 할당 된다.&amp;nbsp;&lt;div&gt;버스는 한 노선에서 운행된다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="698" y="442.5" width="204" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bKZN4RkFKnWUpiIsmanF-1" target="Ytf4gtK0Q_wr9BrQV-4_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-1" value="&lt;u&gt;번호&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="394" y="600" width="65" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bKZN4RkFKnWUpiIsmanF-3" target="Ytf4gtK0Q_wr9BrQV-4_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-3" value="&lt;u&gt;지점번호&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="434" y="174" width="68" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bKZN4RkFKnWUpiIsmanF-4" target="Ytf4gtK0Q_wr9BrQV-4_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-4" value="지점명" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="174" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bKZN4RkFKnWUpiIsmanF-7" target="Ytf4gtK0Q_wr9BrQV-4_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-7" value="&lt;u&gt;차량번호&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="612" width="72" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bKZN4RkFKnWUpiIsmanF-8" target="Ytf4gtK0Q_wr9BrQV-4_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKZN4RkFKnWUpiIsmanF-8" value="버스명(번호)" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="911" y="612" width="72" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
