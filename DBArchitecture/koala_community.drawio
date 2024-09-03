@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="페이지-1" id="5VQdo3rjBxlBMdRI_lET">
-    <mxGraphModel dx="1020" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="o-ZpfQm57ATGy068CR_h-33" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="292" y="533" width="77" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-34" value="조회수" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-34" value="조회수(view_counter)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="292" y="587" width="77" height="39" as="geometry" />
         </mxCell>
         <mxCell id="o-ZpfQm57ATGy068CR_h-35" value="글" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -117,10 +117,10 @@
             <mxPoint x="454" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-40" value="제목" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-40" value="제목(title)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="468" y="533" width="77" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-41" value="내용" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-41" value="내용(content)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="468" y="587" width="77" height="39" as="geometry" />
         </mxCell>
         <mxCell id="o-ZpfQm57ATGy068CR_h-42" value="카테고리가 전체인 글 목록을 볼 때는, 화면에 글 ID 대신 카테고리가 보여야 한다.&lt;div&gt;특정 카테고리가 설정된 이후에는 표의 가장 앞에 글 ID가 보여야 한다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -141,7 +141,7 @@
         <mxCell id="o-ZpfQm57ATGy068CR_h-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="o-ZpfQm57ATGy068CR_h-47" target="o-ZpfQm57ATGy068CR_h-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-47" value="내용" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-47" value="내용(content)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="766" y="537" width="60.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o-ZpfQm57ATGy068CR_h-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="o-ZpfQm57ATGy068CR_h-48" target="o-ZpfQm57ATGy068CR_h-1" edge="1">
@@ -150,19 +150,19 @@
         <mxCell id="o-ZpfQm57ATGy068CR_h-48" value="이름" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530.5" y="101" width="77" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-50" value="좋아요 수" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-50" value="좋아요 수&lt;div&gt;(like_counter)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="292" y="642" width="77" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-51" value="댓글 수" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-51" value="댓글 수&lt;div&gt;(comment_counter)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="382" y="642" width="77" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="o-ZpfQm57ATGy068CR_h-52" value="첨부 파일List" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="o-ZpfQm57ATGy068CR_h-52" value="첨부 파일List&lt;div&gt;(file_list)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="476" y="642" width="77" height="39" as="geometry" />
         </mxCell>
         <mxCell id="o-ZpfQm57ATGy068CR_h-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;KOALA - 커뮤니티 DB&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="59" y="22" width="265" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="UbYAIXShzG-xaz4NOpxT-1" value="좋아요" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="UbYAIXShzG-xaz4NOpxT-1" value="좋아요&lt;div&gt;(like_counter)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="621" y="594" width="60.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UbYAIXShzG-xaz4NOpxT-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UbYAIXShzG-xaz4NOpxT-3" target="o-ZpfQm57ATGy068CR_h-1">
